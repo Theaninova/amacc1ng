@@ -1,3 +1,5 @@
+*You're probably looking for [CharaChorder/DeviceManager](https://github.com/CharaChorder/DeviceManager), the official maintained version of this.*
+
 # amaCC1ng
 
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/Theaninova/dotio/build.yml)
